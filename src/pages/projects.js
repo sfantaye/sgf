@@ -128,7 +128,7 @@ const projects = () => {
               <FeatureProject
                 title='Unichat Application'
                 img={project3}
-                summary='Full Stack: Realtime Chat Application with social authentication including Google and Facebook using Firebase, online statuses, great design, and functionality, image support, sound notifications, the ability to create multiple rooms, and dedicated chat with APIs/sockets. '
+                summary='Full Stack: Realtime Chat Application with social authentication including Google and Facebook using Firebase, online statuses, great design, and functionality, image support, sound notifications, the ability to create  multiple rooms and dedicated chat with APIs/sockets. '
                 link='https://unichatreactchat.netlify.app/'
                 github='https://github.com/GonzaloVolonterio/react-unichat'
                 type='Proyect'
