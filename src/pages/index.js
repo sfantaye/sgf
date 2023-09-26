@@ -38,7 +38,7 @@ export default function Home() {
               xl:!text-5xl lg:!text-center lg:!text-6xl md:!text-5xl sm:!text-3xl
               '
               />
-              <p className='my-4 text-base space-x-2 font-medium md:text-sm sm:text-xs'>
+              <p className='my-4 text-base space-x-2 font-medium md:text-sm sm:text-xs text-justify  whitespace-normal'>
                 Welcome to my portfolio! I am a passionate Full Stack Developer
                 with a background in UX/UI design, dedicated to creating
                 engaging and user centered digital experiences. With a solid
