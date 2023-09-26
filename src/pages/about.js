@@ -3,7 +3,6 @@ import AnimatedText from '@/components/AnimatedText';
 import Layout from '@/components/Layout';
 import Head from 'next/head';
 import React, { useEffect, useRef } from 'react';
-//import profilePic from ''../../public/images/profile/profile-page.png';'
 import profilePic from '../../public/images/profile/profile1a-pag.png';
 import Image from 'next/image';
 import { useInView, useMotionValue, useSpring } from 'framer-motion';
@@ -59,22 +58,23 @@ const about = () => {
               <h2 className='mb-4 text-lg font-bold uppercase text-dark/75 dark:text-light/75'>
                 Biography
               </h2>
-              <p className='font-medium'>
+              <p className='my-1 text-base space-x-2 font-medium md:text-sm sm:text-xs text-justify  whitespace-normal'>
                 Hello, I'm Gonzalo Volonterio, a Full Stack Developer with more
                 than 3 years of experience in web development and mobile
                 applications.
               </p>
-              <p className='font-medium my-2'>
+              <p className='my-1 text-base space-x-2 font-medium md:text-sm sm:text-xs text-justify whitespace-normal'>
                 I believe that technology and programming are tools powerful
                 that allow us to create innovative solutions and transform the
                 world around us. With the knowledge and the creativity right, we
                 can build a more inclusive future, sustainable and prosperous
                 for all.
               </p>
-              <p className='font-medium'>
-                My main priority is to keep up to date with the latest industry
-                trends updating myself to develop and grow professionally. I
-                have ability to work in group,empathy and problem solving.
+              <p className='my-1 text-base space-x-2 font-medium md:text-sm sm:text-xs text-justify whitespace-normal '>
+                My main priority is to keep up to date with the latest
+                industrytrends updating myself to develop and grow
+                professionally.I have ability to work in group, empathy and
+                problem solving.
               </p>
             </div>
             <div
