@@ -60,7 +60,7 @@ const Experience = () => {
             '
           />
 
-          <ul className='w-full flex flex-col items-start justify-between ml-4 xs:ml-2'>
+          <ul className='w-full flex flex-col items-start justify-between ml-4 xs:ml-2 text-justify whitespace-normal'>
             <Details
               position='Full Stack'
               company='Freelance'
