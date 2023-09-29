@@ -14,6 +14,7 @@ Tailwind CSS
 
 https://personal-portfolio-website-nextjs.netlify.app/
 
-![portofolioimg](https://github.com/GonzaloVolonterio/personal-portfolio-nextjs/assets/64506662/63c8ec2f-a92a-4e3e-8074-01695c3c448d)
+![imgportfolio](https://github.com/GonzaloVolonterio/personal-portfolio-nextjs/assets/64506662/6ac6644a-a548-4caf-9583-4e115b5b9652)
+
 
 
