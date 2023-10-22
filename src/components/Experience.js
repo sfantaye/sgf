@@ -62,8 +62,8 @@ const Experience = () => {
 
           <ul className='w-full flex flex-col items-start justify-between ml-4 xs:ml-2 text-justify whitespace-normal'>
             <Details
-              position='Full Stack'
-              company='Freelance'
+              position='Web Developer'
+              company='Ministry of Innovation and Technology'
               companyLink=''
               time='2020 - present'
               address='Argentina for the world'
@@ -77,8 +77,8 @@ const Experience = () => {
             />
 
             <Details
-              position='Front End Developer'
-              company='Alkemy'
+              position='Developer'
+              company='Minnovation'
               companyLink=''
               time='2021 - 2022'
               address='Argentina'

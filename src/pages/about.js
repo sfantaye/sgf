@@ -3,7 +3,7 @@ import AnimatedText from '@/components/AnimatedText';
 import Layout from '@/components/Layout';
 import Head from 'next/head';
 import React, { useEffect, useRef } from 'react';
-import profilePic from '../../public/images/profile/profile1a-pag.png';
+import profilePic from '../../public/images/profile/pp.jpg';
 import Image from 'next/image';
 import { useInView, useMotionValue, useSpring } from 'framer-motion';
 import Skills from '@/components/Skills';
@@ -59,16 +59,18 @@ const about = () => {
                 Biography
               </h2>
               <p className='my-1 text-base space-x-2 font-medium md:text-sm sm:text-xs text-justify  whitespace-normal'>
-                Hello, I'm Gonzalo Volonterio, a Full Stack Developer with more
-                than 3 years of experience in web development and mobile
-                applications.
+                Hello, I'm Sintayehu G. Fantaye, a Back-end Developer, Data Scientist and Machine Learning Engineer with more
+                than 3 years of experience in web development and Data Science.
+            
               </p>
               <p className='my-1 text-base space-x-2 font-medium md:text-sm sm:text-xs text-justify whitespace-normal'>
-                I believe that technology and programming are tools powerful
-                that allow us to create innovative solutions and transform the
-                world around us. With the knowledge and the creativity right, we
-                can build a more inclusive future, sustainable and prosperous
-                for all.
+                My professional journey is fueled by a deep fascination with the intricacies of 
+                Back-end Web Architectures, the versatility of Python programming, and the potential of 
+                machine learning + data science. I am wholeheartedly dedicated to utilizing these passions 
+                to drive positive change, both for individuals and industries. I believe that technology is
+                 the canvas upon which we can paint a brighter future, where innovation leads to progress.
+                  I invite you to connect, so we can embark on this ever-evolving digital adventure together, 
+                  exploring new horizons and discovering the endless possibilities of the digital realm. 
               </p>
               <p className='my-1 text-base space-x-2 font-medium md:text-sm sm:text-xs text-justify whitespace-normal '>
                 My main priority is to keep up to date with the latest

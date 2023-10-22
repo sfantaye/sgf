@@ -16,7 +16,7 @@ function Footer() {
             &#9825;
           </span>
           By&nbsp;
-          <div className='flex items-center lg:py-2'>Gonzalo Volonterio</div>
+          <div className='flex items-center lg:py-2'>Sintayehu Fantaye</div>
         </div>
       </Layout>
     </footer>
